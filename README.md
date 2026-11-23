@@ -94,6 +94,4 @@ The program lists three vehicles using the same `Vehicle` type, displays their c
 
 AI assistance was used to help plan the domain model, structure classes and relationships, draft and review C# code, explain OOP concepts, and prepare this README. The student should examine the implementation, execute the demo and self-tests, and be prepared to explain the design before submission.
 
-## 9. Submission
 
-Push these project files to a Git repository (such as GitHub). **Paste only the repository URL into the university assignment text field.** Do not paste this README, code, a report, or supplementary text into that field.
